@@ -1,0 +1,23 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "sample webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewoconnor-development/node-app.git"
+  },
+  "author": "Matthew O'Connor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewoconnor-development/node-app/issues"
+  },
+  "homepage": "https://github.com/matthewoconnor-development/node-app#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
